@@ -15,7 +15,7 @@ const LoginForm = () => {
 
 
   return (
-    <div className={`wrapper${action}`}>
+    <div className={`wrapper ${action}`}>
         <div className='form-box login'>
             <form action="">
             <h1>Login</h1>
