@@ -9,5 +9,4 @@
 <li>React Native</li>
 </ul>
 
-<h2>Visualização do Projeto:</h2>
-<img src="img\login.png">
+<h2>Visualização do Projeto: https://login-page-five-neon.vercel.app/</h2>
